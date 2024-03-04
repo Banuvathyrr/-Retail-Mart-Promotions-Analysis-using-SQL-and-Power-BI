@@ -34,6 +34,20 @@ EDA involved exploring promotions data to answer the following key questions:
 - Compute Incremental Sold Unit percentage for each category and rank them
 - List top 5 products ranked by Incremental revenue percentage across all campaigns.
 
+### Following Measures and Columns were created
+ - Incremental revenue
+ - Icremental sold units
+ - Incremental revenue %
+ - Icremental sold units %
+ - Total revenue before promo
+ - Total revenue after promo
+ - Total sold units before promo
+ - Total sold units after promo
+ - Average price before promo and after promo =total revenue/told sold units
+ - Promo impact: the difference between the total revenue or sold units after the promo and before the promo
+ - Promo Effectiveness: the ratio of incremental revenue or sold units to the base revenue or sold units before the promo
+ - Average Incremental Revenue % and Incremental Sold Units %
+
 ### Data Analysis
 ```
 1. SELECT 
