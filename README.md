@@ -98,6 +98,11 @@ FROM
 - **Strategic Expansion of BOGOF Promotion**: For the Diwali campaign, we propose extending the BOGOF (Buy One, Get One Free) promotion strategy to include groceries. This strategic adjustment aims to capitalize on the high demand for groceries during the festive period. 
 - **Introducing 500 Cashback Offer**: During the Sankranti campaign, we propose introducing the 500 cashback promotional offer to a new set of product categories, apart from combo sets. Recognizing that customers may have already purchased combo sets during the Diwali campaign, this strategic adjustment aims to maintain consumer interest and incentivize purchases in different product categories.
 
+### Dashboard 
+- Check the dashboard here: https://www.novypro.com/project/retail-mart-promotion-analysis-power-bi
+
+### Video Presentation link:
+- Check for the presentation in google drive: https://drive.google.com/drive/folders/1F1y6BL5GIRh6MmGLdEedMCvBPxGwC36f
 
 ### Acknowledgements
 - This Project is a Codebasics Resume project challenge (https://codebasics.io/challenge/codebasics-resume-project-challenge)
