@@ -105,7 +105,7 @@ FROM
 - Check for the presentation in google drive: https://drive.google.com/drive/folders/1F1y6BL5GIRh6MmGLdEedMCvBPxGwC36f
 
 ### Acknowledgements
-- This Project is a Codebasics Resume project challenge (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+- This Project is a Codebasics Resume project challenge#9 (https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
 
