@@ -1,5 +1,10 @@
-# Retail Mart Promotions Analysis using SQL and PowerBI
-![sale logo](https://github.com/Banuvathyrr/Retail-Mart-Promotions-Analysis-using-SQL-and-Power-BI/assets/145739539/b68e3e3e-85fc-46ad-9fe0-da902edc4d91)  
+<h1 align="center">Retail Mart Promotions Analysis using SQL and PowerBI</h1>
+
+<p align="center">
+  <img src="https://github.com/Banuvathyrr/Retail-Mart-Promotions-Analysis-using-SQL-and-Power-BI/assets/145739539/b68e3e3e-85fc-46ad-9fe0-da902edc4d91">
+</p>
+
+
 
 ### Introduction  
 AtliQ Mart is a retail giant operating over 50 supermarkets across the southern region of India.
